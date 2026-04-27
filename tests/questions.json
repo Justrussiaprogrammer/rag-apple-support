@@ -1,0 +1,75 @@
+[
+  {
+    "question": "Как обновить iPhone до последней версии iOS?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/118575"
+    ]
+  },
+  {
+    "question": "Как создать резервную копию iPhone?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/guide/iphone/iph3ecf67d29/ios"
+    ]
+  },
+  {
+    "question": "Что делать, если я забыл пароль от Аккаунта Apple?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/102656"
+    ]
+  },
+  {
+    "question": "Как перенести данные со старого iPhone на новый?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/119967",
+      "https://support.apple.com/ru-ru/102659"
+    ]
+  },
+  {
+    "question": "Как перейти с Android на iPhone?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/118670"
+    ]
+  },
+  {
+    "question": "Что делать, если iPad не заряжается?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/102612"
+    ]
+  },
+  {
+    "question": "Что делать, если iPhone не включается?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/116940"
+    ]
+  },
+  {
+    "question": "Что означает предупреждение, что аксессуар не поддерживается?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/101565"
+    ]
+  },
+  {
+    "question": "Как сбросить код-пароль iPad через компьютер?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/119858"
+    ]
+  },
+  {
+    "question": "Что делать, если iPhone работает медленно?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/102598"
+    ]
+  },
+  {
+    "question": "Что делать при предупреждении об обнаружении жидкости в разъеме iPhone?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/102643"
+    ]
+  },
+  {
+    "question": "Как настроить новый iPhone или iPad?",
+    "expected_source_urls": [
+      "https://support.apple.com/ru-ru/105132"
+    ]
+  }
+]

@@ -1,0 +1,297 @@
+{
+  "metric": "Recall@3",
+  "value": 0.9167,
+  "total_questions": 12,
+  "hits": 11,
+  "rows": [
+    {
+      "question": "Как обновить iPhone до последней версии iOS?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/118575"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Обновление iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/118575",
+          "score": 0.9216
+        },
+        {
+          "doc_title": "При загрузке устройство iPhone зависает на экране с логотипом Apple",
+          "source_url": "https://support.apple.com/ru-ru/102474",
+          "score": 0.8978
+        },
+        {
+          "doc_title": "Получение временного места в хранилище iCloud при покупке нового устройства iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/104980",
+          "score": 0.8932
+        }
+      ]
+    },
+    {
+      "question": "Как создать резервную копию iPhone?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/guide/iphone/iph3ecf67d29/ios"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Резервное копирование iPhone",
+          "source_url": "https://support.apple.com/ru-ru/guide/iphone/iph3ecf67d29/ios",
+          "score": 0.9331
+        },
+        {
+          "doc_title": "Резервное копирование iPhone",
+          "source_url": "https://support.apple.com/ru-ru/guide/iphone/iph3ecf67d29/ios",
+          "score": 0.9313
+        },
+        {
+          "doc_title": "Резервное копирование iPhone",
+          "source_url": "https://support.apple.com/ru-ru/guide/iphone/iph3ecf67d29/ios",
+          "score": 0.9298
+        }
+      ]
+    },
+    {
+      "question": "Что делать, если я забыл пароль от Аккаунта Apple?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/102656"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Если вы забыли пароль от Аккаунта Apple",
+          "source_url": "https://support.apple.com/ru-ru/102656",
+          "score": 0.9286
+        },
+        {
+          "doc_title": "Настройка поверенного для восстановления учетной записи",
+          "source_url": "https://support.apple.com/ru-ru/102641",
+          "score": 0.9257
+        },
+        {
+          "doc_title": "Если вы забыли пароль от Аккаунта Apple",
+          "source_url": "https://support.apple.com/ru-ru/102656",
+          "score": 0.9227
+        }
+      ]
+    },
+    {
+      "question": "Как перенести данные со старого iPhone на новый?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/119967",
+        "https://support.apple.com/ru-ru/102659"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Использование функции «Быстрое начало» для переноса данных на новый iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/102659",
+          "score": 0.9286
+        },
+        {
+          "doc_title": "Перенос данных со старого устройства iOS или iPadOS на новый iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/119967",
+          "score": 0.9069
+        },
+        {
+          "doc_title": "Перенос содержимого со старого устройства iOS или iPadOS на новый iPhone или iPad с помощью iCloud",
+          "source_url": "https://support.apple.com/ru-ru/108344",
+          "score": 0.9002
+        }
+      ]
+    },
+    {
+      "question": "Как перейти с Android на iPhone?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/118670"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Переход с устройства Android на iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/118670",
+          "score": 0.8981
+        },
+        {
+          "doc_title": "Переход с устройства Android на iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/118670",
+          "score": 0.8929
+        },
+        {
+          "doc_title": "Переход с устройства Android на iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/118670",
+          "score": 0.8912
+        }
+      ]
+    },
+    {
+      "question": "Что делать, если iPad не заряжается?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/102612"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Если iPad не заряжается",
+          "source_url": "https://support.apple.com/ru-ru/102612",
+          "score": 0.9162
+        },
+        {
+          "doc_title": "Если iPad не включается или зависает",
+          "source_url": "https://support.apple.com/ru-ru/102642",
+          "score": 0.9096
+        },
+        {
+          "doc_title": "Если iPad не включается или зависает",
+          "source_url": "https://support.apple.com/ru-ru/102642",
+          "score": 0.9086
+        }
+      ]
+    },
+    {
+      "question": "Что делать, если iPhone не включается?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/116940"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Покупка бывшего в употреблении устройства iPhone",
+          "source_url": "https://support.apple.com/ru-ru/104999",
+          "score": 0.9193
+        },
+        {
+          "doc_title": "Если iPhone не включается или завис на черном экране",
+          "source_url": "https://support.apple.com/ru-ru/116940",
+          "score": 0.9185
+        },
+        {
+          "doc_title": "Если iPhone не включается или завис на черном экране",
+          "source_url": "https://support.apple.com/ru-ru/116940",
+          "score": 0.9111
+        }
+      ]
+    },
+    {
+      "question": "Что означает предупреждение, что аксессуар не поддерживается?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/101565"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Если на вашем устройстве Apple появляется предупреждение «Этот аксессуар, вероятно, не поддерживается»",
+          "source_url": "https://support.apple.com/ru-ru/101565",
+          "score": 0.8823
+        },
+        {
+          "doc_title": "Если на вашем устройстве Apple появляется предупреждение «Этот аксессуар, вероятно, не поддерживается»",
+          "source_url": "https://support.apple.com/ru-ru/101565",
+          "score": 0.8695
+        },
+        {
+          "doc_title": "Если устройство iPhone или iPod touch не заряжается",
+          "source_url": "https://support.apple.com/ru-ru/108805",
+          "score": 0.869
+        }
+      ]
+    },
+    {
+      "question": "Как сбросить код-пароль iPad через компьютер?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/119858"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Как сбросить код-пароль iPad с помощью компьютера Mac или компьютера с Windows",
+          "source_url": "https://support.apple.com/ru-ru/119858",
+          "score": 0.9238
+        },
+        {
+          "doc_title": "Как сбросить код-пароль iPad с помощью компьютера Mac или компьютера с Windows",
+          "source_url": "https://support.apple.com/ru-ru/119858",
+          "score": 0.9113
+        },
+        {
+          "doc_title": "Как сбросить код-пароль iPad с помощью компьютера Mac или компьютера с Windows",
+          "source_url": "https://support.apple.com/ru-ru/119858",
+          "score": 0.8917
+        }
+      ]
+    },
+    {
+      "question": "Что делать, если iPhone работает медленно?",
+      "hit@3": false,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/102598"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Если iPhone не включается или завис на черном экране",
+          "source_url": "https://support.apple.com/ru-ru/116940",
+          "score": 0.8947
+        },
+        {
+          "doc_title": "Если на iPhone отображается предупреждение о контакте с жидкостью",
+          "source_url": "https://support.apple.com/ru-ru/102643",
+          "score": 0.8931
+        },
+        {
+          "doc_title": "Если на iPhone отображается предупреждение о контакте с жидкостью",
+          "source_url": "https://support.apple.com/ru-ru/102643",
+          "score": 0.8887
+        }
+      ]
+    },
+    {
+      "question": "Что делать при предупреждении об обнаружении жидкости в разъеме iPhone?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/102643"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Если на iPhone отображается предупреждение о контакте с жидкостью",
+          "source_url": "https://support.apple.com/ru-ru/102643",
+          "score": 0.9222
+        },
+        {
+          "doc_title": "Если на iPhone отображается предупреждение о контакте с жидкостью",
+          "source_url": "https://support.apple.com/ru-ru/102643",
+          "score": 0.9116
+        },
+        {
+          "doc_title": "Если на вашем устройстве Apple появляется предупреждение «Этот аксессуар, вероятно, не поддерживается»",
+          "source_url": "https://support.apple.com/ru-ru/101565",
+          "score": 0.885
+        }
+      ]
+    },
+    {
+      "question": "Как настроить новый iPhone или iPad?",
+      "hit@3": true,
+      "expected_source_urls": [
+        "https://support.apple.com/ru-ru/105132"
+      ],
+      "retrieved": [
+        {
+          "doc_title": "Использование функции «Быстрое начало» для переноса данных на новый iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/102659",
+          "score": 0.9188
+        },
+        {
+          "doc_title": "Настройка iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/105132",
+          "score": 0.9115
+        },
+        {
+          "doc_title": "Перенос данных со старого устройства iOS или iPadOS на новый iPhone или iPad",
+          "source_url": "https://support.apple.com/ru-ru/119967",
+          "score": 0.9094
+        }
+      ]
+    }
+  ]
+}
