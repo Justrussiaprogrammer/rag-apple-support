@@ -92,6 +92,20 @@ Swagger:
 http://localhost:8000/docs
 ```
 
+### 4. Запуск через Docker
+
+Систему можно запустить с помощью докера. Для этого уже должен быть построен индекс из пункта 2. Нужно 2 команды:
+
+```bash
+docker compose up --build
+```
+
+```bash
+docker compose exec ollama ollama pull qwen2.5:1.5b
+```
+
+После этого система будет работать самостоятельно
+
 ## Запросы
 
 ### Health
